@@ -59,7 +59,7 @@
 
         layer_3 {
             bindings = <
-&bt BT_CLR   &kp F1    &kp F2     &kp F3         &kp F4  &kp F5    &trans  &trans  &trans  &trans  &trans  &trans
+&bt BT_CLR   &kp F1    &kp F2     &kp F3         &kp F4  &kp F5    &kp F6  &trans  &trans  &trans  &trans  &trans
 &bt BT_NXT  &kp END  &kp HOME  &kp PG_UP  &kp PAGE_DOWN  &trans    &trans  &trans  &trans  &trans  &trans  &trans
     &trans   &trans    &trans     &trans         &trans   &to 0    &trans  &trans  &trans  &trans  &trans  &trans
                                   &trans         &trans  &trans    &trans  &trans  &trans
